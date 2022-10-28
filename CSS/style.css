@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+.navbar{
+  background-color: #FF1616;
+}
+.logo {
+height: 40px;
+}
 .hero {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../IMG/jumbo.jpg");
     background-position: center;
