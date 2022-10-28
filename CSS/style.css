@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 .hero {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../IMG/jumbo.jpg");
     background-position: center;
@@ -9,4 +10,9 @@
 
   body{
     background-color: 	#6699CC;
+  }
+
+  h1,h2 {
+    font-family: 'Bangers', cursive;
+    
   }
